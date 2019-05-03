@@ -1,4 +1,4 @@
-#CarbonFootprint2.0
+# CarbonFootprint2.0
 
 ## Why 2.0
 This project is a re-do of the Carbon Footprint program. It aims to make things more efficient, reliable and fix bugs. Its a complete redesign.
